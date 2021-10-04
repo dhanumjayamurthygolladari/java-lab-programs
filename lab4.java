@@ -1,8 +1,8 @@
 import java.util.*;
-class Lab4
+class lab4
 {
   int a[][],b[][],c[][],m,n,p,q;
-  Lab4()
+  lab4()
   {
    Scanner s=new Scanner(System.in);
    System.out.println("enter m");
@@ -97,7 +97,7 @@ class Lab4
    
    public static void main(String args[])
    {
-   Lab4 l=new lab4();
+   lab4 l=new lab4();
     
    l.add();
    System.out.println("addition of two martix");
